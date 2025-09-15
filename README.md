@@ -1,7 +1,8 @@
-# Complex-values neural networks for spectral induced polarization applications
-This repository contains the necessary scripts to reproduce the experiments in
+# Complex-valued neural networks for spectral induced polarization applications
+This repository hosts the necessary codes to reproduce experiments from the paper "Complex-valued neural networks for spectral induced polarization applications".
 
-Charles L Bérubé, Sébastien Gagnon, E Rachel Kenko, Jean-Luc Gagnon, Lahiru M A Nagasingha, Reza Ghanati, Frédérique Baron, Complex-valued neural networks for spectral induced polarization applications, Geophysical Journal International, 2025;, ggaf348, https://doi.org/10.1093/gji/ggaf348 
+## Citation
+Charles L Bérubé, Sébastien Gagnon, E Rachel Kenko, Jean-Luc Gagnon, Lahiru M A Nagasingha, Reza Ghanati, Frédérique Baron, Complex-valued neural networks for spectral induced polarization applications, Geophysical Journal International, 2025, ggaf348, https://doi.org/10.1093/gji/ggaf348 
 
 ## Necessary libraries (there may be more)
 - scikit-learn https://scikit-learn.org/stable/index.html 
